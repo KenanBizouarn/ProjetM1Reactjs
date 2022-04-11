@@ -1,0 +1,11 @@
+.container-test{
+    display: flex;
+}
+
+.bar{
+    flex: 1;
+}
+
+.test{
+    flex: 4;
+}
